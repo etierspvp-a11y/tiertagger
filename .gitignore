@@ -1,0 +1,37 @@
+# gradle
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+*.launch
+.classpath
+.factorypath
+.jdt.apt_prefs
+.jdt.core.prefs
+.project
+.settings/
+bin/
+var/
+
+# vscode
+.vscode/
+*.code-workspace
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# macos
+*.DS_Store
+
+# Environment variables
+.env
+
+# Build output
+*.jar
+*.zip
